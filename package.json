@@ -11,7 +11,7 @@
     }
   ],
   "dependencies": {
-    "http-errors": "1.3.1",
+    "http-errors": "git+https://github.com/VirtusAI/http-errors.git",
     "lodash": "3.1.0",
     "object-assign": "2.0.0",
     "request": "2.74.0"
